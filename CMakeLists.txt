@@ -10,4 +10,4 @@ set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} ${ECM_KDE_MODULE_DIR} ${CMAKE_MODULE_PA
 find_package(KF5Plasma REQUIRED)
 
 # Add installation target ("make install")
-plasma_install_package(plasmoid.org.kde.markdown-plasmoid)
+plasma_install_package(plasmoid org.kde.markdown-plasmoid)

@@ -6,7 +6,6 @@ import org.kde.plasma.core 2.0 as PlasmaCore
 import org.kde.plasma.components 2.0 as PlasmaComponents
 
 import QtWebKit  3.0
-import QtWebView 1.14
 import QtWebEngine 1.10
 
 import "functions.js" as Func
